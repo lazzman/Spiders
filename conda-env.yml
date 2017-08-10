@@ -1,0 +1,39 @@
+name: Spiders
+channels:
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+- defaults
+dependencies:
+- asn1crypto=0.24.0=py37_0
+- ca-certificates=2019.1.23=0
+- certifi=2019.3.9=py37_0
+- cffi=1.12.2=py37h7a1dbc1_1
+- chardet=3.0.4=py37_1
+- cryptography=2.6.1=py37h7a1dbc1_0
+- cssselect=1.0.3=py37_0
+- idna=2.8=py37_0
+- libiconv=1.15=h1df5818_7
+- libxml2=2.9.9=h464c3ec_0
+- libxslt=1.1.33=h579f668_0
+- lxml=4.3.2=py37h1350720_0
+- openssl=1.1.1b=he774522_1
+- pip=19.0.3=py37_0
+- pycparser=2.19=py37_0
+- pymongo=3.7.2=py37ha925a31_0
+- pyopenssl=19.0.0=py37_0
+- pyquery=1.4.0=py37_0
+- pysocks=1.6.8=py37_0
+- python=3.7.3=h8c8aaf0_0
+- requests=2.21.0=py37_0
+- selenium=3.141.0=py37he774522_0
+- setuptools=40.8.0=py37_0
+- six=1.12.0=py37_0
+- sqlite=3.27.2=he774522_0
+- urllib3=1.24.1=py37_0
+- vc=14.1=h0510ff6_4
+- vs2015_runtime=14.15.26706=h3a45250_0
+- wheel=0.33.1=py37_0
+- win_inet_pton=1.1.0=py37_0
+- wincertstore=0.2=py37_0
+- zlib=1.2.11=h62dcd97_3
+prefix: E:\work\python\env\Anaconda3\envs\Spiders
+
