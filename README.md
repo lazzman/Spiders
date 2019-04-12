@@ -5,7 +5,7 @@
 
 - [Miniconda With Python 3.x](https://docs.conda.io/en/latest/miniconda.html)
 
-## 2. 安装依赖包<span id='step2'></span>
+## 2. 安装依赖包
 
 使用命令安装依赖包清单
 ```
@@ -22,7 +22,7 @@ Spiders               *  E:\work\python\env\Anaconda3\envs\Spiders
 python36                 E:\work\python\env\Anaconda3\envs\python36
 root                     E:\work\python\env\Anaconda3
 ```
-使用`activate Spiders`进入[2. 安装依赖包](#step2)导入的环境
+使用`activate Spiders`进入[2. 安装依赖包](#2-安装依赖包)导入的环境
 ```
 (Spiders) (E:\work\python\env\Anaconda3\envs\Spiders) E:\work\python\workspace\Spiders>
 ```
