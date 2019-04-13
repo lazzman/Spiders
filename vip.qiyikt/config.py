@@ -1,2 +1,3 @@
-DOMAIN="vip.qiyikt.com"
-PHPSESSID="h1bijbiatd7830akdncjuan4e1"
+PHPSESSID="k49kc3qmmoccgh0c48sn7cj5g0"
+ADDRESSPRE="http://vip.qiyikt.com"
+CHECKURL=""
